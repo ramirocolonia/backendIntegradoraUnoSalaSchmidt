@@ -15,7 +15,7 @@ app.listen(PORT, () => {
 });
 
 mongoose.connect(
-  ""
+  "REEMPLAZAR ACAAAAAAAAAAAAAA"
   )
   .then(() => {
     console.log("Conectado a la base de datos!");
